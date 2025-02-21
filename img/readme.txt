@@ -1,1 +1,1 @@
-Soreed img
+Stored img
